@@ -1,6 +1,5 @@
 //Author: Mahmod Ahmad
 //File: deque.h
-//Assignment: 02
 /////////////////////
 #ifndef _DEQUE_H
 #define _DEQUE_H
