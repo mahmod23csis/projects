@@ -1,6 +1,5 @@
 Author: Mahmod Ahmad
 File: README
-Assignment: 02
 
 This program uses and tests the Deque class. Elements can be added/deleted to this linked list from both ends.
 
