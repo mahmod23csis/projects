@@ -1,0 +1,25 @@
+Insert 3 number at the front:
+Insert 3 number at the back:
+
+Show size of the deque
+6
+Show front of the deque
+3
+Show back of the deque
+6
+Pop front of the deque...
+
+Show front of the deque
+2
+Pop back of the deque...
+
+Show back of the deque
+5
+Show size of the deque
+4
+
+Testing copy constructor
+
+show front of deque 2: 2
+Destructor is called
+Destructor is called

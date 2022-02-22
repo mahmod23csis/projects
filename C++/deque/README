@@ -1,0 +1,27 @@
+Author: Mahmod Ahmad
+File: README
+Assignment: 02
+
+This program uses and tests the Deque class. Elements can be added/deleted to this linked list from both ends.
+
+To run:
+1. Type 'make'
+2. User will be prompted to enter 3 integer numbers to the front of the deque.
+3. User once again will be prompted for 3 numbers to allocate them at the back of the deque.
+
+OR:
+1. Type 'make test' to test the program with predetermined input from 'testfile.txt'.
+2. Program will create 'output.txt' and compare it with 'xpected_output.txt'.
+3. If both files are the same it means the program runs succesfully.
+4. To view the resulting output open 'output.txt'.
+
+Expected output:
+1. Program will print size, front, and back of deque.
+2. Program will pop an element from front and print the updated front of deque.
+3. Program will pop an element from back and then print the updated back of the deque.
+4. Program will print updated size of the deque(smaller).
+5. Program will test the overloaded assignment by assigning origianl deque to deque 2.
+6. Program will test copy constructor and should print the front of the newly created deque similar to the front of original deque.
+7. Finally, two deconstructors will be called because there are two objects.
+
+zip folder contains 6 files: main.cpp deque.h dequeNode.h testfile.txt xpected_output.txt makefile README
