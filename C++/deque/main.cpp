@@ -1,6 +1,5 @@
 //Author: Mahmod Ahmad
 //File: main.cpp
-//Assignment: 02
 /////////////////////
 #include "deque.h"
 #include "dequeNode.h"
