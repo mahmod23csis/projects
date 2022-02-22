@@ -1,6 +1,5 @@
 //Author: Mahmod Ahmad
 //File: dequeNode.h
-//Assignment: 02
 /////////////////////
 #ifndef _DEQUENODE_H
 #define _DEQUENODE_H
