@@ -2,7 +2,8 @@ __author__="Mahmod Ahmad"
 __date__="11/06/2020"
 
 """Testing getters, setters and the string function"""
-
+#from modAccountV1 import *
+#from modAccountV2 import *
 from modAccountV3 import *
 
 def main():
