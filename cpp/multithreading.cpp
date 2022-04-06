@@ -1,4 +1,4 @@
-//This wearher like program increases the degrees for every city
+//This weather like program increases the degrees for every city
 //by 1 for every 9 seconds. A dummy API function is created to 
 //change the temperature, a map to hold cities and its temperature,
 //and a thread to keep refreshing the app.
